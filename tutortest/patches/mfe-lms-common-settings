@@ -1,0 +1,4 @@
+MFE_CONFIG["LOGO_URL"] = "https://edly-panel-backend-public-storage.s3.amazonaws.com/edly_site_logos/102/logo.png"
+MFE_CONFIG["LOGO_TRADEMARK_URL"] = "https://edly-panel-backend-public-storage.s3.amazonaws.com/edly_site_logos/102/logo.png"
+MFE_CONFIG["LOGO_WHITE_URL"] = "https://edly-panel-backend-public-storage.s3.amazonaws.com/edly_site_logos/102/logo.png"
+MFE_CONFIG["FAVICON_URL"] = "https://edly-panel-backend-public-storage.s3.amazonaws.com/edly_site_logos/102/logo.png"
